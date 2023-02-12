@@ -23,5 +23,3 @@ class Anagram
 
 end
 
-name =Anagram.new("Listen")
-pp name.match(%w[hello world zombies pants dipper])
